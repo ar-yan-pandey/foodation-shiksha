@@ -150,7 +150,8 @@
     }
 
     .home{
-        background-position-x: -800px;
+        background-position-x: -1100px;
+        background-size: cover;
     }
 
     footer{
