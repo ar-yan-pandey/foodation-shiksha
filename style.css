@@ -65,6 +65,7 @@ header{
     
     background-blend-mode: darken;
     height: 100vh;
+    background-size: cover;
 }
 
 li:hover{
